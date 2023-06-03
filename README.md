@@ -12,7 +12,7 @@ Vue + Vite + Fontawesome + Vue echarts
 ## ✒️ Autor
 Márcio Reis
 
-😊 Link de acesso: 
+😊 Link de acesso: https://dev-marcioreis.github.io/dashboard-vue/
 
 ---
 
