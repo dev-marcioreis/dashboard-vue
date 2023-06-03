@@ -4,7 +4,7 @@
 
 Este projeto será um dashboard.
 
-## 🚀 Finalizado!
+## 🚀 Em desenvolvimento...
 
 ## 📋 Tecnologias
 Vue + Vite + Fontawesome + Vue echarts + Material design icons
