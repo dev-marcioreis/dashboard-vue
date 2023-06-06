@@ -7,7 +7,7 @@ Este projeto será um dashboard.
 ## 🚀 Em desenvolvimento...
 
 ## 📋 Tecnologias
-Vue + Vite + Fontawesome + Vue echarts + Material design icons
+Vue + Vite + 
 
 ## ✒️ Autor
 Márcio Reis
